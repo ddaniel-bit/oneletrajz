@@ -24,6 +24,7 @@ p {
     padding: 0.4cm;
     font-weight: bold;
     font-size: 14px;
+    border-radius: 5px;
 }
 #iskolak1 {
     width: 100%;
